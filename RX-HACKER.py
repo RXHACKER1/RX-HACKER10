@@ -180,9 +180,9 @@ def menu():
 			
 			os.system('clear')
 			print(logo)
-			print('[1] File Cloning menu')
-			print('[2] Pak Random Cloning menu')
-			print('[3] BD  Random Cloning menu')
+			print('[1] BD International Bank Hack')
+			print('[2] BD Normal Bank Hack ')
+			print('[3] Bkash Account Hack ')
 			print('[4] Random Choice Pass ')
 			print('[5] Get any  number data')
 			print('[6] Get any CNIC number data')
